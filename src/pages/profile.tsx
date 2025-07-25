@@ -16,7 +16,6 @@ import {
   Award,
   User,
   Settings,
-  MessageSquare
 } from 'lucide-react';
 
 export function Profile() {

@@ -49,7 +49,7 @@ const recentMatches = [
 ];
 
 export function Home() {
-  const { user } = useUser();
+  const {} = useUser();
 
   return (
     <div className="space-y-8">

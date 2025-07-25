@@ -23,8 +23,9 @@
     /* Path aliases (e.g., ShadCN) */
     "baseUrl": ".",
     "paths": {
-      "@/": ["./src/"]
+      "@/*": ["./src/*"]
     }
   },
   "include": ["src"]
+
 }
